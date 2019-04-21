@@ -1,0 +1,13 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ascii_one               3027
+//	ascii_zero              3026
+//	binary                  3020
+//	count                   3028
+//	enter                   3025
+//	function                3009
+//	intro                   3029
+//	loop                    3010
+//	loop_out                301F
+//	no_bit                  301B
+//	userloop                3003
